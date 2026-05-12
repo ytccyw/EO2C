@@ -1,0 +1,13 @@
+*.asv
+*.fig
+logs/
+final_res/
+*_result.txt
+*-best.mat
+*-pred_label.mat
+_private/
+_paper_*.pdf
+_paper_*.txt
+datasets/MUUFL/
+datasets/HS-SAR-DSM Augsburg/
+datasets/MDAS-Subregion1-HS-MS-SAR-DSM/
