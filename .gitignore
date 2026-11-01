@@ -1,0 +1,19 @@
+*.asv
+*.fig
+logs/
+final_res/
+*_result.txt
+*-best.mat
+*-pred_label.mat
+_private/
+_paper_*.pdf
+_paper_*.txt
+datasets/trento_data.mat
+datasets/*
+!datasets/HSI.mat
+!datasets/LiDAR.mat
+!datasets/gt.mat
+!datasets/LICENSE.upstream.txt
+!datasets/README.upstream.txt
+datasets/HS-SAR-DSM Augsburg/
+datasets/MDAS-Subregion1-HS-MS-SAR-DSM/
